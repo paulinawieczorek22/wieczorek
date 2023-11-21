@@ -1,0 +1,149 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: rgb(213, 217, 214);
+}
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #fff;
+  box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.1);
+}
+aside {
+  width: 370px;
+  background: #668857;
+}
+.cv-photo {
+  margin-top: 25px;
+}
+.header-secondary {
+  color: #ffffff;
+}
+.contact-links {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+.bold {
+  font-weight: 700;
+}
+.list-secondary {
+  color: rgb(13, 86, 7);
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list-secondary-item {
+  color: #fff;
+}
+
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.tech-skills-block {
+  margin-top: 47;
+  margin-left: 40px;
+}
+
+.skills-block {
+  margin-top: 44px;
+  margin-left: 40px;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+main {
+  padding: 102px 88px 102px 88px;
+}
+
+.main-description {
+  width: 400px;
+}
+
+.job-title {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+h1 {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: normal;
+  width: 500px;
+}
+
+.description {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 40px;
+}
+
+.projects {
+  width: 485px;
+  margin-bottom: 51px;
+}
+
+.list-primary {
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list-primary-item {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: none;
+}
+.header-primary {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
+}
+.job-name {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+}
+.highlight {
+  color: rgb(139, 192, 143);
+}
+.job-date {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+}
+.job-list {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.job {
+  margin-bottom: 16px;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+}
